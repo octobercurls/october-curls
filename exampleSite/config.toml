@@ -30,11 +30,11 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
+author = "Meena"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
-logo = "images/logo.png"
+copyright = ""
+description = "October curls"
+logo = "/images/frame-1.png"
 search = true
 [params.cookies]
 enable = true
@@ -68,10 +68,6 @@ title = "twitter"
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
